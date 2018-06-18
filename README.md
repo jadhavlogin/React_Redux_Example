@@ -1,7 +1,7 @@
-This project is for understand the How the react executes its component life cycle.
+This project is for understand the How to use Redux with React application.
 ## Table of Contents
 
-- [Component Life Cycle](#component-life-cycle)
+- [React with Redux](#react-with-redux)
 - [Folder Structure](#folder-structure)
 - [Available Scripts](#available-scripts)
   - [npm start](#npm-start)
@@ -10,15 +10,9 @@ This project is for understand the How the react executes its component life cyc
   - [npm run eject](#npm-run-eject)
 - [Supported Browsers](#supported-browsers)
 
-## Component Life Cycle
-   React contains following Component hooks. 
-    - componentWillMount
-    - componentDidMount
-    - componentWillReceiveProps
-    - shouldComponentUpdate 
-    - componentWillUpdate 
-    - componentDidUpdate
-    - componentWillUnmount
+## React with Redux
+   Redux is a predictable state container for JavaScript apps.<br>
+   Redux makes it easy to manage the state of your application. Another way of looking at this – it helps you manage the data you display and how you respond to user actions.
   
 ## Folder Structure
 
